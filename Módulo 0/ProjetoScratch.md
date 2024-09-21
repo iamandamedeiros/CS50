@@ -1,5 +1,5 @@
 # Projeto Scratch: Pegue a chave! 🗝
-<img scr="scratch.png">
+![scratch](https://github.com/user-attachments/assets/27ce21ff-1840-40ef-bc0f-2e3e7b7927f8)
 
 ## Instruções 👀
 O objetivo do jogo é simples: ajude o mago a pegar a chave do castelo antes que o dragão ataque.
